@@ -1,0 +1,10 @@
+C:\Users\APRO\source\repos\Судоку\Судоку\bin\Release\Судоку.exe.config
+C:\Users\APRO\source\repos\Судоку\Судоку\bin\Release\Судоку.exe
+C:\Users\APRO\source\repos\Судоку\Судоку\bin\Release\Судоку.pdb
+C:\Users\APRO\source\repos\Судоку\Судоку\obj\Release\Судоку.csproj.AssemblyReference.cache
+C:\Users\APRO\source\repos\Судоку\Судоку\obj\Release\Судоку.Form1.resources
+C:\Users\APRO\source\repos\Судоку\Судоку\obj\Release\Судоку.Properties.Resources.resources
+C:\Users\APRO\source\repos\Судоку\Судоку\obj\Release\Судоку.csproj.GenerateResource.cache
+C:\Users\APRO\source\repos\Судоку\Судоку\obj\Release\Судоку.csproj.CoreCompileInputs.cache
+C:\Users\APRO\source\repos\Судоку\Судоку\obj\Release\Судоку.exe
+C:\Users\APRO\source\repos\Судоку\Судоку\obj\Release\Судоку.pdb
